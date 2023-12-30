@@ -1,0 +1,22 @@
+# requirements.txt
+
+# OpenCV (cv2) for computer vision
+opencv-python
+
+# PyAutoGUI for automating mouse and keyboard actions
+pyautogui
+
+# NumPy for numerical operations
+numpy
+
+# keyboard for working with the keyboard
+keyboard
+
+# Matplotlib for plotting and visualization
+matplotlib
+
+# pytesseract for OCR (Optical Character Recognition)
+pytesseract
+
+# SciPy for scientific computing
+scipy
