@@ -1,4 +1,4 @@
-
+# Minesweeper-Auto-Player
 Using Python, I programmed an auto-player for a real Minesweeper game from this site:
 [https://minesweeper.online/](https://minesweeper.online/)
 
