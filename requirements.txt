@@ -20,3 +20,7 @@ pytesseract
 
 # SciPy for scientific computing
 scipy
+
+pynput
+
+PyQt5
